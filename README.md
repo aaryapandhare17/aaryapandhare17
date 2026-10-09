@@ -1,4 +1,17 @@
 
+<h2 align="center">🐍 AARYA PANDHARE</h2>
+
+<h3 align="center">My GitHub Contribution Journey</h3>
+
+<div align="center">
+
+  <img src="https://raw.githubusercontent.com/aaryapandhare17/aaryapandhare17/output/github-snake-dark.svg"
+       alt="Aarya Pandhare Contribution Snake Animation"
+       width="100%" />
+
+</div>
+
+
 <div align="center">
 
 # Hey, I'm Aarya Pandhare 
