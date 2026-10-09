@@ -1,5 +1,5 @@
 
-<h2 align="center">🐍 AARYA PANDHARE</h2>
+<h2 align="center"> AARYA PANDHARE</h2>
 
 <h3 align="center">My GitHub Contribution Journey</h3>
 
