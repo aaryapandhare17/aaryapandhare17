@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Hey, I'm Aarya Pandhare 👋
+# Hey, I'm Aarya Pandhare 
 
 ### Software Developer | ML Enthusiast | Problem Solver
 
@@ -81,7 +81,6 @@ technical skills, and my DSA learning journey.
 
 </div>
 
----
 
 
 
@@ -91,9 +90,8 @@ technical skills, and my DSA learning journey.
 
 
 
----
 
-## 🌐 Connect With Me
+
 
 
 ## 🌐 Connect With Me
