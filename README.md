@@ -82,6 +82,30 @@ technical skills, and my DSA learning journey.
 
 [View Repository](https://github.com/aaryapandhare17/resume_website)
 
+
+
+
+---
+
+<h2 align="center">🐍 AARYA PANDHARE</h2>
+
+<p align="center">
+  <b>My GitHub Contribution Journey</b>
+</p>
+
+<div align="center">
+
+  <img
+    src="https://raw.githubusercontent.com/aaryapandhare17/aaryapandhare17/output/github-snake-dark.svg"
+    alt="Aarya Pandhare GitHub Snake Animation"
+    width="100%"
+  />
+
+</div>
+
+---
+
+
 ---
 
 ## 📊 GitHub Statistics
